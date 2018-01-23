@@ -1,4 +1,4 @@
-import HomeScreen from "./HomeContainer";
+import HomeScreen from "./HomeScreen";
 
 export default {
   HomeScreen

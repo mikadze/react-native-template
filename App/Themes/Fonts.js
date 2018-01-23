@@ -14,7 +14,7 @@ const size = {
 
 const style = {
   h1: {
-    fontFamily: type.base,
+    // fontFamily: type.base,
     fontSize: size.h1
   },
   h2: {
@@ -22,15 +22,15 @@ const style = {
     fontSize: size.h2
   },
   h5: {
-    fontFamily: type.base,
+    // fontFamily: type.base,
     fontSize: size.h5
   },
   normal: {
-    fontFamily: type.base,
+    // fontFamily: type.base,
     fontSize: size.regular
   },
   description: {
-    fontFamily: type.base,
+    // fontFamily: type.base,
     fontSize: size.regular
   }
 };
